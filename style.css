@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Overlock&family=Telex&display=swap');
+
+body {
+   
+    background-image:url("https://img.freepik.com/free-vector/hand-drawn-abstract-shapes-background_23-2149084635.jpg?w=2000");
+background-size: cover;
+}
+
+p {
+    font-family:telex;
+    color: #2963a5;
+}
+
+label{
+    font-family: telex;
+    font-size: 20px;
+   color: #2963a5;
+}
+
+
+h5{
+    font-family: telex;
+    color:#f1627a
+}
+
+.heading {
+    width: 30%;
+font-size: 37px;
+font-family: overlock;
+border: outset;
+
+}
+.heading:hover{
+    color:        #75aee4;
+    background: white;
+}
+
+.name_of_family{
+    color:black;
+font-family: overlock;
+font-size: 18px;
+}
+
+#camera{
+    border:outset;
+    width: 350px;
+    height: 300px;
+}
+
+
+#identify{
+    font-family: overlock;
+    font-size: 18px;
+    border-radius: 1px;
+    background-color: #f3c061;
+    color: white;
+    border-color:#f3c061;
+}
+
+#capture{
+    font-family: overlock;
+    font-size: 18px;
+    border-radius: 1px;
+    background-color:#75aee4;
+    color: white;
+    border-color:#75aee4;
+}
